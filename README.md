@@ -40,7 +40,7 @@ Stop Time 2023-03-16 17:04:29
 
 | Metric                   | Count
 | ------------------------ | -----
-| SecurityEvent            | 73288
+| SecurityEvent            | 73,288
 | Syslog                   | 3404
 | SecurityAlert            | 1
 | SecurityIncident         | 147
